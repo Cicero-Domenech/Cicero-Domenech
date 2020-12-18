@@ -7,7 +7,7 @@
 
 Meu nome é Cicero, sou formado em Analise e Desenvolvimento de Sitemas e apaixonado por desenvolvimento.
 
-- 📌 Desenvolvedor da **Lorbytech**.
+- 📌 Desenvolvedor da [Otontech](https://github.com/orgs/otontech).
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
 - 📚 Always improving.
 
