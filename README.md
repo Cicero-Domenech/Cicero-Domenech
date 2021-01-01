@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cicerodomenech@gmail.com)](mailto:cicerodomenech@gmail.com)
 
 
-Meu nome é Cicero, sou formado em Analise e Desenvolvimento de Sitemas e apaixonado por desenvolvimento.
+Meu nome é Cicero, sou formado em Analise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento de software.
 
 - 📌 Desenvolvedor da [Otontech](https://github.com/orgs/otontech).
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
