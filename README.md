@@ -9,7 +9,7 @@ Meu nome é Cicero, sou formado em Analise e Desenvolvimento de Sistemas e apaix
 
 - 📌 Desenvolvedor da [Otontech](https://github.com/orgs/otontech).
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
-- 📚 Always improving.
+- 📚 C# .net asp.net.
 
 ---
 
